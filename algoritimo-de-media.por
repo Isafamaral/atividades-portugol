@@ -1,27 +1,27 @@
 programa {
   funcao inicio() {
 /*
-    Operadores Aritiméticos
-    + Adição
-    / Divisão 
+    Operadores AritimÃ©ticos
+    + AdiÃ§Ã£o
+    / DivisÃ£o 
   
     */
 
-    //declaração de variável
+    //declaraÃ§Ã£o de variÃ¡vel
     real valorA, valorB, valorC, valorD
 
-    //atribuição
-    escreva("Digite o nota 1: ")
+    //atribuiÃ§Ã£o
+    escreva("Digite a nota do 1Â° Bimestre: ")
     leia(valorA)
-    escreva("Digite o nota 2: ")
+    escreva("Digite a nota do 2Â° Bimestre: ")
     leia(valorB)
-    escreva("Digite o nota 3: ")
+    escreva("Digite a nota do 3Â° Bimestre: ")
     leia(valorC)
-    escreva("Digite o nota 4: ")
+    escreva("Digite a nota do 4Â° Bimestre: ")
     leia(valorD)
 
-    //Operação aritméticas
-    escreva("A media final das notas são: ", (valorA + valorB + valorC + valorD)/4)
+    //OperaÃ§Ã£o aritmÃ©ticas
+    escreva("A media final das notas sÃ£o: ", (valorA + valorB + valorC + valorD)/4)
   
   }
 }
