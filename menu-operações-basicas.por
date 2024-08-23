@@ -41,7 +41,7 @@ programa {
         escreva("Digite o segundo valor: ")
         leia(num2)
         resultado = num1 * num2
-        escreva("A smultiplicação dos valores: ", resultado, "\n\n")
+        escreva("A multiplicação dos valores: ", resultado, "\n\n")
         pare
         caso 4:
         escreva("Você escolheu a opção 4, Divisão\n")
@@ -65,7 +65,7 @@ programa {
         escreva("Saindo...\n")
         pare
         caso contrario:
-         escreva("Opção Invalida\n\n")
+         escreva("\n", "OPÇÃO INVALIDA\n\n")
 
        }
 
